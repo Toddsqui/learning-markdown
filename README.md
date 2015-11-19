@@ -29,3 +29,9 @@ To have inline code, use backticks like this:
 ```md
 To install something, do:  `sudo install something`
 ```
+
+##  Links
+
+```md
+[The link text](http://example.com)
+```
