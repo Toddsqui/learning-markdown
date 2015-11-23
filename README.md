@@ -47,3 +47,31 @@ This is some code block text
 #### header4
 ##### header5
 ###### header6
+
+This is my first unordered list:
+
+- grapes
+- bananas
+- kiwis
+- persimmons
+
+This is my first ordered list:
+
+1. Cow
+2. Monkey
+3. Horse
+
+Here they are again in code blocks:
+
+```md
+- grapes
+- bananas
+- kiwis
+- persimmons
+```
+
+```md
+1. Cow
+2. Monkey
+3. Horse
+```
