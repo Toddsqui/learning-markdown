@@ -75,3 +75,7 @@ Here they are again in code blocks:
 2. Monkey
 3. Horse
 ```
+
+# This is my superHeading where the title is in JavaScript format!!
+
+[This is a link](http://traveling.internationalhustling.co)
