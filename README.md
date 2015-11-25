@@ -37,8 +37,15 @@ To install something, do:  `sudo install something`
 ```
 
 
+# Using Headings
+
 ```md
-This is some code block text
+# header1
+## header2
+### header3
+#### header4
+##### header5
+###### header6
 ```
 
 # header1
@@ -48,20 +55,8 @@ This is some code block text
 ##### header5
 ###### header6
 
-This is my first unordered list:
 
-- grapes
-- bananas
-- kiwis
-- persimmons
-
-This is my first ordered list:
-
-1. Cow
-2. Monkey
-3. Horse
-
-Here they are again in code blocks:
+# My First Unordered List
 
 ```md
 - grapes
@@ -70,12 +65,27 @@ Here they are again in code blocks:
 - persimmons
 ```
 
+- grapes
+- bananas
+- kiwis
+- persimmons
+
+# My First Ordered List
+
 ```md
 1. Cow
 2. Monkey
 3. Horse
 ```
 
-# This is my superHeading where the title is in JavaScript format!!
+1. Cow
+2. Monkey
+3. Horse
+
+# Link Practice, Dude!
+
+```md
+[This is a link](http://traveling.internationalhustling.co)
+```
 
 [This is a link](http://traveling.internationalhustling.co)
