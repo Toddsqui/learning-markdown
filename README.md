@@ -59,28 +59,28 @@ To install something, do:  `sudo install something`
 # My First Unordered List
 
 ```md
-- grapes
-- bananas
-- kiwis
-- persimmons
+ - grapes
+ - bananas
+ - kiwis
+ - persimmons
 ```
 
-- grapes
-- bananas
-- kiwis
-- persimmons
+ - grapes
+ - bananas
+ - kiwis
+ - persimmons
 
 # My First Ordered List
 
 ```md
-1. Cow
-2. Monkey
-3. Horse
+ 1. Cow
+ 2. Monkey
+ 3. Horse
 ```
 
-1. Cow
-2. Monkey
-3. Horse
+ 1. Cow
+ 2. Monkey
+ 3. Horse
 
 # Link Practice, Dude!
 
